@@ -2,7 +2,7 @@
 
 <!-- <h1 align="left">Hi, I'm Salinas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> -->
 
-I’m a Web Developer. Currently I'm studying systems analysis and development at Faculdade Descomplica and improving myself at Rockeseat. 🚀
+I’m a Web Developer. Currently I'm studying systems analysis and development at Faculdade Descomplica and improving myself at Rocketseat. 🚀
 
 #### About me:
 - 💻 I went back to studying programming in 2022
