@@ -38,5 +38,5 @@ I’m a Web Developer. Currently I'm studying systems analysis and development a
 
 
 #### 💬 Find me elsewhere
-Send a mensage on [instagram](https://www.instagram.com/_eosalinas/) or a email on [gmail](mailto:matheussalinas3@gmail.com), if you like game add me on [steam](https://steamcommunity.com/id/salininhas)!
+Send a mensage on [instagram](https://www.instagram.com/_eosalinas/) or if you like game add me on [steam](https://steamcommunity.com/id/salininhas)!
 
