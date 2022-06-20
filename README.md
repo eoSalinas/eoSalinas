@@ -8,7 +8,7 @@ I’m a Web Developer. Currently I'm studying systems analysis and development a
 - 💻 I went back to studying programming in 2022
 - ⚛️ I'm very excited to learn new things
 - 🚀 I love digital business, entrepreneurship and inovation
-- 📝 I did the Alura [Front-end](https://cursos.alura.com.br/user/salinas/degree-front-end-113709/certificate), [Python for Web](https://cursos.alura.com.br/user/salinas/degree-Python-linguagem-162571/certificate) and [Programming Beginner](https://cursos.alura.com.br/user/salinas/degree-Python-linguagem-162571/certificate) training
+<!-- - 📝 I did the Alura [Front-end](https://cursos.alura.com.br/user/salinas/degree-front-end-113709/certificate), [Python for Web](https://cursos.alura.com.br/user/salinas/degree-Python-linguagem-162571/certificate) and [Programming Beginner](https://cursos.alura.com.br/user/salinas/degree-Python-linguagem-162571/certificate) training -->
 
 #### My current tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
